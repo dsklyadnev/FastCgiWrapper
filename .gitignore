@@ -32,3 +32,6 @@
 CMakeCache.txt
 Makefile
 CMakeFiles/
+
+# Example
+example/fcgi_sample
